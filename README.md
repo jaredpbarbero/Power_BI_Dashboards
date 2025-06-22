@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ![Data Jobs DB](/images/Dashboard_1.PNG)
 
-[**View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiZTczMzAxNzMtN2EwYi00MmI3LWE3YjEtNzdlNzU3Zjc0ZTI0IiwidCI6IjRjMjZlMjczLWQzMGMtNGRiNi1hYjliLTI1NDFiY2MyMTQ1NiIsImMiOjZ9)
+[**View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiYjFlMzdhZjEtNzUwMC00Mzg2LTlmYWYtZTc3ZWExOGJkOTNlIiwidCI6IjRjMjZlMjczLWQzMGMtNGRiNi1hYjliLTI1NDFiY2MyMTQ1NiIsImMiOjZ9)
 
 **Key Power BI Skills Utilized**
 * 🖥️ Dashboard Layout & Design
