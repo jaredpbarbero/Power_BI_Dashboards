@@ -10,7 +10,7 @@
 Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (v2.0) is designed specifically for Job Seekrs, Job Transitioners, and Job Swappers to cut through the clutter! Using a real-world dataset of 2024 data science  job postings- rich with details on titles, salaries, and locations-this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
 ### Dashboard File
-You can find the file for the dashboard here: [`Dashboard_v2.pbix`](/Data_Jobs_V2/Data_Jobs_Dashboard_v2.pbix)  
+You can find the file for the dashboard here: [`Dashboard_v2.pbix`](/Data_Jobs_V1/Data_Jobs_Dashboard_v1.pbix)  
 
 ## Skills Showcased
 
